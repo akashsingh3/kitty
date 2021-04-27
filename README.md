@@ -1,2 +1,0 @@
-# kitty
-my life
